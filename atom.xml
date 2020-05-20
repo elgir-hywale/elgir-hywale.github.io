@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Hexo</title>
+  <title>小海怪的博客</title>
   
-  
+  <subtitle>小海怪的学习之路</subtitle>
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://elgir-hywale.github.io/"/>
-  <updated>2020-05-16T15:21:40.926Z</updated>
+  <updated>2020-05-20T12:19:45.175Z</updated>
   <id>http://elgir-hywale.github.io/</id>
   
   <author>
-    <name>Elgir</name>
+    <name>Elgir Hywale</name>
     
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>Hello World</title>
-    <link href="http://elgir-hywale.github.io/2020/05/16/hello-world/"/>
-    <id>http://elgir-hywale.github.io/2020/05/16/hello-world/</id>
-    <published>2020-05-16T15:21:40.926Z</published>
-    <updated>2020-05-16T15:21:40.926Z</updated>
+    <title>github+hexo搭建博客总结</title>
+    <link href="http://elgir-hywale.github.io/2020/05/20/github-hexo-da-jian-bo-ke-zong-jie/"/>
+    <id>http://elgir-hywale.github.io/2020/05/20/github-hexo-da-jian-bo-ke-zong-jie/</id>
+    <published>2020-05-20T12:19:45.000Z</published>
+    <updated>2020-05-20T12:19:45.175Z</updated>
     
     <summary type="html">
     
@@ -29,7 +29,11 @@
       
         
         
-          &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a
+          &lt;script&gt;
+        document.querySelectorAll(&#39;.github-emoji&#39;)
+          .forEach(el =&gt; {
+            if (!el.dataset.src) { return; }
+       
         
       
     
