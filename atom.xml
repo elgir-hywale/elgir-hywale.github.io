@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://elgir-hywale.github.io/"/>
-  <updated>2020-05-16T15:45:51.132Z</updated>
+  <updated>2020-05-16T15:21:40.926Z</updated>
   <id>http://elgir-hywale.github.io/</id>
   
   <author>
@@ -15,33 +15,6 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
-  
-  <entry>
-    <title>article title</title>
-    <link href="http://elgir-hywale.github.io/2020/05/16/article-title/"/>
-    <id>http://elgir-hywale.github.io/2020/05/16/article-title/</id>
-    <published>2020-05-16T15:45:51.000Z</published>
-    <updated>2020-05-16T15:45:51.132Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          &lt;script&gt;
-        document.querySelectorAll(&#39;.github-emoji&#39;)
-          .forEach(el =&gt; {
-            if (!el.dataset.src) { return; }
-       
-        
-      
-    
-    </summary>
-    
-    
-    
-  </entry>
   
   <entry>
     <title>Hello World</title>
