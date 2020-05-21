@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://elgir-hywale.github.io/"/>
-  <updated>2020-05-20T12:19:45.175Z</updated>
+  <updated>2020-05-20T14:59:19.539Z</updated>
   <id>http://elgir-hywale.github.io/</id>
   
   <author>
@@ -15,6 +15,33 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>python实现小游戏2048</title>
+    <link href="http://elgir-hywale.github.io/2020/05/20/python-shi-xian-xiao-you-xi-2048/"/>
+    <id>http://elgir-hywale.github.io/2020/05/20/python-shi-xian-xiao-you-xi-2048/</id>
+    <published>2020-05-20T14:59:19.000Z</published>
+    <updated>2020-05-20T14:59:19.539Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;script&gt;
+        document.querySelectorAll(&#39;.github-emoji&#39;)
+          .forEach(el =&gt; {
+            if (!el.dataset.src) { return; }
+       
+        
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
   
   <entry>
     <title>github+hexo搭建博客总结</title>

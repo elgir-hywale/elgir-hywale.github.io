@@ -4,6 +4,19 @@
   
     
     <entry>
+      <title>python实现小游戏2048</title>
+      <link href="/2020/05/20/python-shi-xian-xiao-you-xi-2048/"/>
+      <url>/2020/05/20/python-shi-xian-xiao-you-xi-2048/</url>
+      
+        <content type="html"><![CDATA[<script>        document.querySelectorAll('.github-emoji')          .forEach(el => {            if (!el.dataset.src) { return; }            const img = document.createElement('img');            img.style = 'display:none !important;';            img.src = el.dataset.src;            img.addEventListener('error', () => {              img.remove();              el.style.color = 'inherit';              el.style.backgroundImage = 'none';              el.style.background = 'none';            });            img.addEventListener('load', () => {              img.remove();            });            document.body.appendChild(img);          });      </script>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>github+hexo搭建博客总结</title>
       <link href="/2020/05/20/github-hexo-da-jian-bo-ke-zong-jie/"/>
       <url>/2020/05/20/github-hexo-da-jian-bo-ke-zong-jie/</url>
