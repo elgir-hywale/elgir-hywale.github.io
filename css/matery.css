@@ -379,7 +379,7 @@ header .side-nav .social-link {
 
 .cover-btns {
     position: relative;
-    top: 10vh;
+    top: 5vh;
     text-align: center;
 }
 
@@ -406,7 +406,7 @@ header .side-nav .social-link {
 
 .cover-btns a i {
     font-size: 1.1rem;
-    padding-right: 5px;
+    padding-right: 8px;
 }
 
 .scroll-down {
@@ -513,14 +513,14 @@ header .side-nav .social-link {
 
 .cover-social-link {
     position: relative;
-    top: 23vh;
+    top: 15vh;
     width: 100%;
     text-align: center;
 }
 
 .cover-social-link a {
     padding: 0 15px;
-    font-size: 1.35rem;
+    font-size: 1.5rem;
     color: #fff;
 }
 
@@ -697,7 +697,10 @@ header .go-back i {
 }
 
 .index-card {
-    margin-top: -10px;
+    margin-top: -50px;
+    margin-bottom: 25px;
+    margin-left: 25px;
+    margin-right: 25px;
     padding-top: 20px;
 }
 
@@ -740,7 +743,7 @@ header .go-back i {
 }
 
 .index-card .card .card-content {
-    padding: -10px 40px;
+    padding: 20px 40px;
 }
 
 @media only screen and (min-width: 1418px) {
@@ -876,6 +879,8 @@ header .go-back i {
 #articles {
     margin-top: 10px;
     margin-bottom: 10px;
+    margin-left: 70px;
+    margin-right: 70px;
 }
 
 article a {
