@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://elgir-hywale.github.io/"/>
-  <updated>2020-05-21T08:02:48.365Z</updated>
+  <updated>2020-05-26T12:48:23.611Z</updated>
   <id>http://elgir-hywale.github.io/</id>
   
   <author>
@@ -17,11 +17,11 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>python实现小游戏2048</title>
-    <link href="http://elgir-hywale.github.io/2020/05/20/python-shi-xian-xiao-you-xi-2048/"/>
-    <id>http://elgir-hywale.github.io/2020/05/20/python-shi-xian-xiao-you-xi-2048/</id>
-    <published>2020-05-20T14:59:19.000Z</published>
-    <updated>2020-05-21T08:02:48.365Z</updated>
+    <title>【matplotlib绘图】Bar Charts（柱状图）</title>
+    <link href="http://elgir-hywale.github.io/2020/05/26/matplotlib-hui-tu-bar-charts-zhu-zhuang-tu/"/>
+    <id>http://elgir-hywale.github.io/2020/05/26/matplotlib-hui-tu-bar-charts-zhu-zhuang-tu/</id>
+    <published>2020-05-26T12:44:48.000Z</published>
+    <updated>2020-05-26T12:48:23.611Z</updated>
     
     <summary type="html">
     
@@ -29,38 +29,7 @@
       
         
         
-          &lt;script&gt;
-        document.querySelectorAll(&#39;.github-emoji&#39;)
-          .forEach(el =&gt; {
-            if (!el.dataset.src) { return; }
-       
-        
-      
-    
-    </summary>
-    
-    
-    
-  </entry>
-  
-  <entry>
-    <title>github+hexo搭建博客总结</title>
-    <link href="http://elgir-hywale.github.io/2020/05/20/github-hexo-da-jian-bo-ke-zong-jie/"/>
-    <id>http://elgir-hywale.github.io/2020/05/20/github-hexo-da-jian-bo-ke-zong-jie/</id>
-    <published>2020-05-20T12:19:45.000Z</published>
-    <updated>2020-05-21T07:40:29.487Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          &lt;script&gt;
-        document.querySelectorAll(&#39;.github-emoji&#39;)
-          .forEach(el =&gt; {
-            if (!el.dataset.src) { return; }
-       
+          &lt;h1 id=&quot;【matplotlib绘图】Bar-Charts（柱状图）&quot;&gt;&lt;a href=&quot;#【matplotlib绘图】Bar-Charts（柱状图）&quot; class=&quot;headerlink&quot; title=&quot;【matplotlib绘图】Bar
         
       
     
